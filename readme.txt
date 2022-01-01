@@ -7,3 +7,5 @@ How to run the project: Run the project by running the TP3main.py file.
 Which libraries you're using that need to be installed, if any: None
 
 A list of any shortcut commands that exist: There are no shortcut commands. Use the interface to navigate around different modes.
+
+Link to youtube video: https://youtu.be/I0hB7Yh498Q
